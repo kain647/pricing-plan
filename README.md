@@ -1,1 +1,1 @@
-Project can be found here: https://vercel.com/dashboard/projects
+Project can be found here: https://pricing-plan.vercel.app/
